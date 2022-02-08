@@ -7,5 +7,7 @@ Bagging - Random Forest: randomForest, ranger, H2o;
 Boosting - Gradient Descent: gbm, xgboost.
 
 Regression trees/bagging: rpart, ipred, caret;
+
 Bagging - Random Forest: randomForest, ranger, H2o;
+
 Boosting - Gradient Descent: gbm, xgboost.
